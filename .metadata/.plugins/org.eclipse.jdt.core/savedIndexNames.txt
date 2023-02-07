@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Yago\Desktop\cursojava\Curso java\CAMPO_MINADO\.metadata\.plugins\org.eclipse.jdt.core
